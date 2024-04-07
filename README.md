@@ -37,3 +37,9 @@ This website is deployed on Render at the following URL: [https://blog-website-h
 ![Blog Post](screenshot2.png)
 
 Feel free to fork, modify, and use the code for your own projects! If you encounter any issues or have suggestions for improvements, please create an issue or pull request.
+
+
+## Support
+If you encounter any technical issues while using our website or have other support-related inquiries, please reach out to our support team for assistance.
+
+Thank you for visiting our blog website! We hope you enjoy reading our articles and find them informative and engaging. Happy browsing!
