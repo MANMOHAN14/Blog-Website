@@ -1,6 +1,6 @@
 # Blog Website Project
 
-This is a blog website created using HTML, CSS, and JavaScript. It allows users to view blog posts, search for specific posts, and leave comments.
+This is a blog website created using HTML, CSS, and JavaScript. It allows users to view blog posts.
 
 ## Features
 
