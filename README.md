@@ -33,8 +33,12 @@ This website is deployed on Render at the following URL: [https://blog-website-h
 
 ## Screenshots
 
-![Homepage](screenshot1.png)
-![Blog Post](screenshot2.png)
+Image 1
+![Image](https://github.com/MANMOHAN14/Blog-Website/assets/106026981/e935d34b-4298-4d29-946d-ded3958ac5ab)
+
+Image 2
+![Image1](https://github.com/MANMOHAN14/Blog-Website/assets/106026981/375ac9da-e88d-43a5-9f7a-44a06a2616d4)
+
 
 Feel free to fork, modify, and use the code for your own projects! If you encounter any issues or have suggestions for improvements, please create an issue or pull request.
 
